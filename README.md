@@ -1,5 +1,7 @@
 # Blockchain-based-lottery-project
+
 中文注释：
+
 1.这是一个基于区块链以太坊的简易彩票项目实现，它包含测试与部署
 2.运行它之前，你的chrome需要有一个MetaMask插件，并注册一个账户，请将助记词保存好，这是通向你账户的唯一通道
 3.你还需要注册并添加一个Infura的账号，它可以是你与以太坊网络畅通无阻
@@ -11,6 +13,7 @@
 9.所有的npm依赖的版本信息都在package.json文件中
 
 Description：
+
 1. This is a simple lottery project based on the blockchain Ethereum, which includes testing and deployment.
 2. Before running it, your chrome needs to have a MetaMask plugin, and register an account, please save the mnemonic, this is the only channel to your account.
 3. You also need to register and add an Infura account, it can be your unimpeded network with the Ethereum network.
